@@ -12,6 +12,7 @@ import {
   BrowserRouter as Router,
   Route,
   Routes,
+  Navigate
 } from "react-router-dom";
 import "./style.css";
 import "./App.css";
@@ -39,7 +40,7 @@ function App() {
           <Route path="/education" element={<Education />} />
           <Route path="/project" element={<Projects />} />
            <Route path="/achievements" element={<Achievements/>} />
-          
+          <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
       </div>
