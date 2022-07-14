@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b7b361f1.css",
+    "main.js": "/my-portfolio/static/js/main.3f464889.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.gif": "/my-portfolio/static/media/home-main.3544d70db65db7ab7de1.gif",
+    "static/media/mvjr.png": "/my-portfolio/static/media/mvjr.00d3ff0b6969ece1c519.png",
+    "static/media/NewsApp.png": "/my-portfolio/static/media/NewsApp.dc4d767fa5d06476bd8a.png",
+    "static/media/Music Player.png": "/my-portfolio/static/media/Music Player.4e257517a9edf6931a8f.png",
+    "static/media/ManishResume.pdf": "/my-portfolio/static/media/ManishResume.e8663ed83d249d84e8d5.pdf",
+    "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Calculator.png": "/my-portfolio/static/media/Calculator.2d8346aecd0480310ca9.png",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.43a5db932e4ce89869ea.jpg",
+    "static/media/avtar.svg": "/my-portfolio/static/media/avtar.58ed40e5a8e6e516ad880a68e4c19349.svg",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.b7b361f1.css.map": "/my-portfolio/static/css/main.b7b361f1.css.map",
+    "main.3f464889.js.map": "/my-portfolio/static/js/main.3f464889.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b361f1.css",
+    "static/js/main.3f464889.js"
+  ]
+}
